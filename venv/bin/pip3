@@ -1,4 +1,4 @@
-#!/home/gracie/fintech/venv/bin/python3
+#!/home/divine/Desktop/fintech/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
